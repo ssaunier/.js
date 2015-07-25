@@ -5,6 +5,12 @@
       pattern: function(distinctId) {
         return "http://kitt.lewagon.org/users/" + distinctId + "/avatar";
       }
+    },
+    {
+      id: '633295',
+      pattern: function(distinctId) {
+        return "https://ondemand.lewagon.org/users/" + distinctId + "/avatar";
+      }
     }
   ];
 
