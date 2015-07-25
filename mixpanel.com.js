@@ -14,7 +14,7 @@
 
   function replaceImage($element, project, id) {
     if (id) {
-      $element.attr('src', project.pattern.call(this, id));
+      $element.attr('src', project.pattern(id));
     }
   }
 
