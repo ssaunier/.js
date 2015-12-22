@@ -5,3 +5,7 @@ Works thanks to [defunkt/dotjs](https://github.com/defunkt/dotjs) and [dotjs Fir
 ## Mixpanel Avatar Replacer
 
 In the [mixpanel.com.js](mixpanel.com.js) file, you'll find the code to replace Mixpanel default gravatar with your **own avatars** from **your** application.
+
+## Trello List Card Counter
+
+Adding to every list header the card count.
